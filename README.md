@@ -1,5 +1,5 @@
 # Multivariate-Data-Classification
-Multivariate Data Analysis, cancer classification, Spring 2023
+Multivariate Data Analysis course, CentraleSupélec x Henri Mondor hospital, Spring 2023
 
 ### Goal
 Analysing a dataset provided by an oncologist at a Paris hospital on the imaging analysis of liver cancer.
