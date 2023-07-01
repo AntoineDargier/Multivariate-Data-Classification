@@ -12,7 +12,7 @@ Analysing a dataset provided by an oncologist at a Paris hospital on the imaging
 2. 2D method: PCA
 3. Multivariate method: PARAFAC
 
-### Librairies
+### Libraries
 * ```tensorly```
 * ```scikit-learn```
 * ```pandas```
